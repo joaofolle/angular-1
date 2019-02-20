@@ -15,4 +15,4 @@ import { PhotoComponent } from "./photo.component";
     ]
 })
 
-export class PhotoModule {}
+export class PhotoModule { }
